@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/Documentos/Playapp/app1/conf/messages,/home/icaro/Documentos/Playapp/app1/target/scala-2.11/classes/messages)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/Documentos/Playapp/app1/conf/routes,/home/icaro/Documentos/Playapp/app1/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/Documentos/Playapp/app1/conf/application.conf,/home/icaro/Documentos/Playapp/app1/target/scala-2.11/classes/application.conf)[0m
